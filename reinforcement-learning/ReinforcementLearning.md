@@ -19,10 +19,9 @@
 ---
 
 ### Q-Learning
-![alt text](link "image name")
-![alt text](link "image name")
-![alt text](link "image name")
-![alt text](link "image name")
+![Let's Get Technical](https://i.imgur.com/CufTPbI.png)
+![Learning Q](https://i.imgur.com/EgFjVxh.png)
+![Q Equation](https://i.imgur.com/3YBtS2C.png)
 
 ---
 
